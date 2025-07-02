@@ -16,8 +16,8 @@ URL: "/organization"
 * [Sara Montagna](https://www.uniurb.it/persone/sara-montagna), Department of Pure and Applied Science - University of Urbino Carlo Bo, Italy
 * [Samuele Burattini](https://www.unibo.it/sitoweb/samuele.burattini/en), Department of Computer Science and Engineering - Alma Mater Studiorum University of Bologna, Italy
 * [Lukas Esterle](https://www.au.dk/en/lukas.esterle@ece.au.dk/), Department of Electrical and Computer Engineering - Aarhus University, Denmark
-<!-- * [Marco Picone](https://www.marcopicone.net/), Department of Sciences and Methods for Engineering (DISMI) - University of Modena and
-Reggio Emilia -->
+* [Marco Picone](https://www.marcopicone.net/), Department of Sciences and Methods for Engineering (DISMI) - University of Modena and
+Reggio Emilia
 
 ### Program Committee
 
