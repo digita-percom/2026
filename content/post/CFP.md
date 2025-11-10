@@ -49,6 +49,8 @@ All accepted papers will be published as part of the PerCom satellite events pro
 <!--{.red}-->
 <!-- <div class="newsbox yellow"> To facilitate the workshop organization and the review process, we invite contributors to submit their abstract by <div><b>November 24th, 2024</b></div> </div> -->
 
+You can submit your paper on EDAS by clicking [here](https://edas.info/N34013)
+
 **Important**: each accepted paper requires a full PerCom registration and at least one author attending the workshop to present it (no registration is available for workshops only).
  <span class="red">Papers without a valid full registration or that are not presented in-person will be excluded from the proceedings.</span>
 
@@ -56,5 +58,5 @@ All accepted papers will be published as part of the PerCom satellite events pro
 
 * Workshop papers are to be no more than 6 pages (overall, i.e. including references). A maximum of 1 additional page may be purchased.
 * FORMAT: [IEEE template](https://www.ieee.org/conferences/publishing/templates.html), 10 pt, 2-column format (same template as the main conference)
-<!-- * Papers can be submitted via EasyChair at the following link [submission link](https://easychair.org/my/conference?conf=percom2025). Once in, please select "Workshop on Digital Twins Ecosystems and Applications" before filling your paper's data. -->
+
 
