@@ -11,7 +11,7 @@ URL: "/dates"
 ---
 
 # Dates
-* Paper submission deadline: **November 17th, 2025** <!-- <span class="red">December 1st, 2024</span> -->
+* Paper submission deadline: ~~November 17th, 2025~~ <span class="red">December 1st, 2025</span>
 * Paper notification: **January 5th, 2025** <!-- <span class="red">January 10, 2025</span> -->
 * Camera Ready Deadline:  **February 2nd, 2026**
 * Workshop: **16-20 March, 2026** (exact date tba)
