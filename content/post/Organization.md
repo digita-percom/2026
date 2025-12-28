@@ -21,81 +21,55 @@ Reggio Emilia
 
 ### Program Committee
 
-- **Alessandra Somma**  
-  University of Naples Federico II, Italy
+- **Alessandra Somma** University of Naples Federico II, Italy
 
-- **Alessandro Ricci**  
-  University of Bologna, Italy
+- **Alessandro Ricci** University of Bologna, Italy
 
-- **Alessio Bucaioni**  
-  Mälardalen University, Sweden
+- **Alessio Bucaioni** Mälardalen University, Sweden
 
-- **Antonello Barbone**  
-  University of Modena and Reggio Emilia, Italy
+- **Antonello Barbone** University of Modena and Reggio Emilia, Italy
 
-- **Antonio Virdis**  
-  University of Pisa, Italy
+- **Antonio Virdis** University of Pisa, Italy
 
-- **Bentley Oakes**  
-  Polytechnique Montréal, Canada
+- **Bentley Oakes** Polytechnique Montréal, Canada
 
-- **Bruno Pizzimenti**  
-  University Mediterranea of Reggio Calabria, Italy
+- **Bruno Pizzimenti** University Mediterranea of Reggio Calabria, Italy
 
-- **Chiara Contoli**  
-  University of Urbino, Italy
+- **Chiara Contoli** University of Urbino, Italy
 
-- **Claudia Campolo**  
-  University Mediterranea of Reggio Calabria, Italy
+- **Claudia Campolo** University Mediterranea of Reggio Calabria, Italy
 
-- **Eduard Kamburjan**  
-  IT University of Copenhagen, Denmark
+- **Eduard Kamburjan** IT University of Copenhagen, Denmark
 
-- **Fabio Turazza**  
-  University of Modena and Reggio Emilia, Italy
+- **Fabio Turazza** University of Modena and Reggio Emilia, Italy
 
-- **Georgios Bouloukakis**  
-  University of Patras, Greece & Télécom SudParis, IP Paris, France
+- **Georgios Bouloukakis** University of Patras, Greece & Télécom SudParis, IP Paris, France
 
-- **Gianluca Aguzzi**  
-  University of Bologna, Italy
+- **Gianluca Aguzzi** University of Bologna, Italy
 
-- **Giovanni Delnevo**  
-  University of Bologna, Italy
+- **Giovanni Delnevo** University of Bologna, Italy
 
-- **Istvan David**  
-  McMaster University, Canada
+- **Istvan David** McMaster University, Canada
 
-- **Malthe T Birkebæk**  
-  Aarhus University, Denmark
+- **Malthe T Birkebæk** Aarhus University, Denmark
 
-- **Martin Braas Andreasen**  
-  Aarhus University, Denmark
+- **Martin Braas Andreasen** Aarhus University, Denmark
 
-- **Matteo Martinelli**  
-  University of Modena and Reggio Emilia, Italy
+- **Matteo Martinelli** University of Modena and Reggio Emilia, Italy
 
-- **Mikkel E Pedersen**  
-  Aarhus University, Denmark
+- **Mikkel E Pedersen** Aarhus University, Denmark
 
-- **Mirgita Frasheri**  
-  Aarhus University, Denmark
+- **Mirgita Frasheri** Aarhus University, Denmark
 
-- **Prasad Talasila**  
-  Aarhus University, Denmark
+- **Prasad Talasila** Aarhus University, Denmark
 
-- **Riccardo Morandi**  
-  University of Modena and Reggio Emilia, Italy
+- **Riccardo Morandi** University of Modena and Reggio Emilia, Italy
 
-- **Shaukat Ali**  
-  Simula Research Laboratory, Norway
+- **Shaukat Ali** Simula Research Laboratory, Norway
 
-- **Stefano Mariani**  
-  University of Modena and Reggio Emilia, Italy
+- **Stefano Mariani** University of Modena and Reggio Emilia, Italy
 
-- **Torben Weis**  
-  Universität Duisburg-Essen, Germany
+- **Torben Weis** Universität Duisburg-Essen, Germany
 
-- **Victoria Degeler**  
-  University of Amsterdam, The Netherlands
+- **Victoria Degeler** University of Amsterdam, The Netherlands
 
