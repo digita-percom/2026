@@ -21,19 +21,81 @@ Reggio Emilia
 
 ### Program Committee
 
-* Gianluca Aguzzi, University of Bologna, Italy
-* Claudia Campolo, Mediterranea University of Reggio Calabria, Italy
-* Giovanni Ciatto, University of Bologna, Italy
-* Rem Collier, University College Dublin, Dublin, Ireland
-* Angelo Croatti, ASL Romagna, Italy
-* Samy El-Tawab, James Madison University, Harrisonburg, VA, USA
-* Mirgita Frasheri, Aarhus University, Denmark
-* Stefano Mariani, University of Modena and Reggio Emilia, Italy
-* Matteo Martinelli, University of Modena and Reggio Emilia, Italy
-* Bruno Pizzimenti, Mediterranea University of Reggio Calabria, Italy
-* Alessandro Ricci, University of Bologna, Italy
-* Felix Theusch, German Research Center for AI (DFKI), Germany
-* Antonio Virdis, University of Pisa, Italy
-* Torben Weis, University Duisburg-Essen, Germany
+- **Alessandra Somma**  
+  University of Naples Federico II, Italy
 
+- **Alessandro Ricci**  
+  University of Bologna, Italy
+
+- **Alessio Bucaioni**  
+  Mälardalen University, Sweden
+
+- **Antonello Barbone**  
+  University of Modena and Reggio Emilia, Italy
+
+- **Antonio Virdis**  
+  University of Pisa, Italy
+
+- **Bentley Oakes**  
+  Polytechnique Montréal, Canada
+
+- **Bruno Pizzimenti**  
+  University Mediterranea of Reggio Calabria, Italy
+
+- **Chiara Contoli**  
+  University of Urbino, Italy
+
+- **Claudia Campolo**  
+  University Mediterranea of Reggio Calabria, Italy
+
+- **Eduard Kamburjan**  
+  IT University of Copenhagen, Denmark
+
+- **Fabio Turazza**  
+  University of Modena and Reggio Emilia, Italy
+
+- **Georgios Bouloukakis**  
+  University of Patras, Greece & Télécom SudParis, IP Paris, France
+
+- **Gianluca Aguzzi**  
+  University of Bologna, Italy
+
+- **Giovanni Delnevo**  
+  University of Bologna, Italy
+
+- **Istvan David**  
+  McMaster University, Canada
+
+- **Malthe T Birkebæk**  
+  Aarhus University, Denmark
+
+- **Martin Braas Andreasen**  
+  Aarhus University, Denmark
+
+- **Matteo Martinelli**  
+  University of Modena and Reggio Emilia, Italy
+
+- **Mikkel E Pedersen**  
+  Aarhus University, Denmark
+
+- **Mirgita Frasheri**  
+  Aarhus University, Denmark
+
+- **Prasad Talasila**  
+  Aarhus University, Denmark
+
+- **Riccardo Morandi**  
+  University of Modena and Reggio Emilia, Italy
+
+- **Shaukat Ali**  
+  Simula Research Laboratory, Norway
+
+- **Stefano Mariani**  
+  University of Modena and Reggio Emilia, Italy
+
+- **Torben Weis**  
+  Universität Duisburg-Essen, Germany
+
+- **Victoria Degeler**  
+  University of Amsterdam, The Netherlands
 
