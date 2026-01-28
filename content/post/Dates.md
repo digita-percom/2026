@@ -14,6 +14,6 @@ URL: "/dates"
 * Paper submission deadline: ~~November 17th, 2025~~ <span class="red">December 7th, 2025</span>
 * Paper notification: ~~January 5th, 2025~~ <span class="red">January 15, 2026</span>
 * Camera Ready Deadline:  **February 2nd, 2026**
-* Workshop: **16-20 March, 2026** (exact date tba)
+* Workshop:  <span class="red">**16 March, 2026**</span>
 
-<!-- <div class="newsbox yellow">For your Camera Ready, please refer to the <a href="https://www.percom.org/camera-ready-preparation/">official PerCom instructions</a></div> -->
+<div class="newsbox yellow">For your Camera Ready, please refer to the <a href="https://www.percom.org/camera-ready-preparation/">official PerCom instructions</a></div>

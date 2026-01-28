@@ -11,10 +11,10 @@ URL: "/accepted"
 ---
 # Accepted Papers
 
-Accepted papers will be listed here.
-<!-- 
-We received a total of 15 submissions to the workshop, out of which we selected 9 for presentation to the workshop.
-We thank all authors and reviewers for their contribution to the DIGITA Workshop. -->
+<!-- Accepted papers will be listed here. -->
+
+We received a total of 23 submissions to the workshop, out of which we accepted 12 for presentation.
+We thank all authors and reviewers for their contribution to the DIGITA Workshop.
 
 
 <style>
@@ -31,15 +31,20 @@ table th:nth-of-type(4) {
     width: 30%;
 }
 </style>
-<!-- 
-| Authors |     Title   |
-|--|--------|
-| Alberto Marfoglia, Christian D'Errico, Filippo Nardini, Sabato Mellone and Antonella Carbonaro |  *CONNECTED: A Knowledge Graph-Driven Platform for Clinical Data Harmonization and Personalized Digital Twin-Based Healthcare* |
-| Gian Marco Paldino, Olivier Caelen, Marouene Oueslati, Tojo Valisoa Johanesa, Marc Ansay and Gianluca Bontempi | *Integrating Domain Adaptation and Causal Inference in Digital Twins for Plastic Injection Molding* |
-| Kai Franke and Tobias Koch | *FIWARE as a Scalable Digital Twin Interface for DT Ecosystems: Benchmark and Limitations* |
-| Timothé Lacheroy, Abdelhadi Belfadel and Jean-Yves Didier | *XRTwin4Industry: A Comprehensive Framework for Standardization and Interoperability in XR-Enabled Industrial Digital Twins* |
-| Piotr Hajder, Mateusz Mojżeszko, Filip Hallo, Lucyna Hajder, Krzysztof Regulski, Krzysztof Banaś, Monika Pernach, Danuta Szeliga, Krzysztof Bzowski, Kazimierz Michalik, Adam Mrozek, Łukasz Sztangret, Marek Wilkus, Tomasz Jażdżewski, Wojciech Jędrysik, Rafał Nadolski, Andrzej Opaliński and Łukasz Rauch | *Towards an Interoperable Digital Shadow Framework for Continuous Steel Casting using Explainable AI and Kubernetes* |
-| Fabrizio Baiardi, Salvatore Ruggieri and Vincenzo Sammartino | *AI-enabled Cybersecurity using Synthetic Data* |
-| Mirgita Frasheri, Prasad Talasila, Peter Gorm Larsen and Lukas Esterle | *Multi-fidelity digital twins for dynamic adaption and efficient distributed simulation* |
-| Francesco Franco, Lorenzo Lamazzi and Luca Bedogni | *A Multi-Layer architecture for Human Digital Twin* |
-| Piotr Hajder, Mateusz Mojżeszko, Filip Hallo, Lucyna Hajder, Krzysztof Regulski, Krzysztof Banaś, Monika Pernach, Danuta Szeliga, Krzysztof Bzowski, Kazimierz Michalik, Adam Mrozek, Łukasz Sztangret, Marek Wilkus, Tomasz Jażdżewski, Wojciech Jędrysik, Rafał Nadolski, Andrzej Opaliński and Łukasz Rauch | *Event-Driven and Scalable Digital Twin System for Real-Time Non-Destructive Testing in Industrial Computational Systems* | -->
+
+
+| Authors | Title |
+|---------|-------|
+| Hrishikesh Dutta; Roberto Minerva; Noel Crespi | *Dual Mind World Model Inspired Network Digital Twin for Access Scheduling* |
+| Andreas Kamilaris; Savvas Karatsiolis; Chirag Padubidri; Asfa Jamil; Arslan Amin; Indrajit Kalita | *GAEA: Experiences and Lessons Learned from a Country-Scale Environmental Digital Twin* |
+| Eita Kobayashi; Nattaon Techasarntikul; Yuichi Ohsita; Hideyuki Shimonishi | *Confidence-Based Maintenance Optimization in Digital Twins for Aging Sensor Networks* |
+| Christian Di Buò; Simone Reale; Roberta Calegari; Andrea Borghesi | *Sustainable City via Trustworthy Civic Digital Twin: a Use Case* |
+| Fabrizio Baiardi; Vincenzo Sammartino; Salvatore Ruggieri | *Evaluating Adversary Strategies Through a Security Twin* |
+| Manuel Andruccioli; Kelvin Olaiya; Giovanni Delnevo; Silvia Mirri; Paola Salomoni | *A Human-Centered Domain-Agnostic User Interface for Digital Twins* |
+| Salvatore Serrano; Claudia Campolo; Giuseppe Ruggeri; Antonella Molinaro; Marica Amadeo | *Federated Learning for Digital Twin-assisted Speech Emotion Recognition* |
+| Amardeep Kumar; Saugata Roy; Praveen Kumar Donta; Dinesh Kumar Sah | *Digital Twin for Intent-driven Edge Networks* |
+| Yoei Waki; Satoshi Ohzahata; Hitoshi Asaeda | *Real-Time State Synchronization for Multiplayer VR Applications in ICN* |
+| Danila Romanov; Hui Cheng; Victoria Degeler | *Digital Twins of Smart Buildings: Technical Solutions and Challenges* |
+| Marek Michalski | *Digital Twin as a Virtual Platform for Security Analysis in log2 N Switching Fabrics* |
+| Marco Picone; Samuele Burattini; Marco Melloni; Prasad Talasila; Davide Ziglioli; Matteo Martinelli; Nicola Bicocchi; Peter Larsen | *A Multi-Simulation Bridge for IoT Digital Twins* |
+
