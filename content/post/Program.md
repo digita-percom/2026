@@ -46,10 +46,6 @@ The workshop will be a full day workshop on the **16th of March 2026**
     }
 </style>
 
-## DIGITA 25 Program
-
-**Friday, 21st March**
-
 <table>
     <thead>
         <tr>
